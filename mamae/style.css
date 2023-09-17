@@ -25,6 +25,11 @@ p{
     color: white;
 }
 
+div{
+    width: 410px;
+    margin: auto;
+}
+
 #foto4{
-    width: 450px;
+    width: 100%;
 }
