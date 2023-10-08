@@ -1,0 +1,3 @@
+introdução sobre tabelas responsivas com uma configuração básica.
+
+Introduction to responsive tables with a basic setup.
